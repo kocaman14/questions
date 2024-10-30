@@ -1,0 +1,44 @@
+.container {
+    text-align: center;
+    margin: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  h3 {
+    color: #555;
+  }
+  
+  .question {
+    font-size: 20px;
+    margin: 20px 0;
+  }
+  
+  .answer-button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .answer-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .result {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #28a745; /* Yeşil renk */
+  }
+  
+  .warning {
+    color: red; /* Uyarı metni için kırmızı */
+  }
+  
